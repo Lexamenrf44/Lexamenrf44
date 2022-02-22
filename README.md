@@ -1,4 +1,4 @@
-### Greetings 👋 Welcome to my gitHub profile :v:
+# Greetings 👋 Welcome to my gitHub profile :v:
 
 <img src="./banner_1.jpg" alt="name banner" />
 

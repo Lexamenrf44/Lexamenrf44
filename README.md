@@ -90,19 +90,7 @@ Feel free to browse my profile. If you have any questions or would like to sched
   <table>
 <div>
 
-
-<p align="right">
-<a>
-  <img width="50%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lexamenrf44&show_icons=true&theme=radical">
-  
-</a>
-</p>
-
-<p align="left">
-  <a>
-    <img width="35%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lexamenrf44&layout=compact&theme=buefy&hide_border=true">
-  </a>
-</p>
+---
 
 <div align='center'>
 

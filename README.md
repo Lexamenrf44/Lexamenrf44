@@ -38,10 +38,6 @@ Feel free to browse my profile. If you have any questions or would like to sched
 
 :dart: I write my own code for the studying purposes in order to become a programmer the other day.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Allure Report-20793B?&style=flat">
-</p>
-
 <div align="left">
 <h2>🛠 Languages, Tools, Skills and Expertises </h2>
 </div>
@@ -61,7 +57,12 @@ Feel free to browse my profile. If you have any questions or would like to sched
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 <img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="terminal" />
 <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
-<img src="https://img.shields.io/badge/Allure TestOps-6A54DF?style=for-the-badge" alt="allure" />
+<img src="https://img.shields.io/badge/Allure TestOps-6A54DF?style=for-the-badge" alt="allureops" />
+<img src="https://img.shields.io/badge/Allure Report-20793B?style=for-the-badge" alt="allurereport" />
+</div>
+
+<div align="left">
+<h2>🛠 Languages, Tools, Skills and Expertises </h2>
 </div>
 
 <p align="right">

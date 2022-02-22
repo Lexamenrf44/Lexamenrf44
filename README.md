@@ -37,7 +37,6 @@ Feel free to browse my profile. If you have any questions or would like to sched
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Selenide-6A54DF?&style=flat">
   <img src="https://img.shields.io/badge/-Selenoid-20793B?&style=flat">
   <img src="https://img.shields.io/badge/-Allure Report-20793B?&style=flat">
   <img src="https://img.shields.io/badge/-Allure TestOps-6A54DF?&style=flat">

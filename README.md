@@ -26,6 +26,10 @@ Feel free to browse my profile. If you have any questions or would like to sched
 </a>
 </div>
 
+<div align="left">
+<h2><img width="32" src="images/book.png"> ## Мои проекты </h2>
+</div>
+
 ## What am I currently up to ?
 
 :dart: I study QA automation in **[QA.GURU online school](https://qa.guru)** in order to implement the gained knowledge in my work. I use the following instruments :

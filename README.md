@@ -9,7 +9,7 @@ I am certified Senior Quality Assurance Engineer with 5+ years of expertise, man
 Have acted as both Lead QA and Senior QA. Feel comfortable whether leading a team or acting as an individual contributor.
 
 <div align="center">
-<a href="https://www.linkedin.com/in/jchiu86">
+<a href="https://www.linkedin.com/in/abarashkov45/">
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="mailto:abarashkov45@gmail.com">

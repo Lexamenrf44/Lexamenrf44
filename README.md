@@ -62,7 +62,7 @@ Feel free to browse my profile. If you have any questions or would like to sched
 </div>
 
 <div align="left">
-<h2><img width="35" src="images/stats.webp"> title="My Github Stats" 🛠 Languages, Tools, Skills and Expertises </h2>
+<h2><img width="35" src="images/stats.webp"> My GitHub statistics </h2>
 </div>
 
 <p align="right">

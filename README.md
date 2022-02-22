@@ -1,6 +1,6 @@
 # Greetings 👋 Welcome to my gitHub profile :v:
 
-<img src="./banner_2.jpg" alt="name banner" />
+<img src="./banner_3.jpg" alt="name banner" />
 
 <div align="left">
 <h2><img width="32" src="images/octocat.gif"> About me </h2>

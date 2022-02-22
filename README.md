@@ -81,7 +81,7 @@ Feel free to browse my profile. If you have any questions or would like to sched
         <div align="center" width="100%">
           <a href="https://github.com/Lexamenrf44">
             <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/jeffreyc86?cardType=github&theme=github" alt="Jeffrey's GitHub Stats" /> -->
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lexamenrf44&layout=compact&theme=buefy&hide_border=true" alt="Alexander's GitHub Stats" vertical-align="middle"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=Lexamenrf44&show_icons=true&theme=radical" alt="Alexander's GitHub Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>

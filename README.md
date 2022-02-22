@@ -32,13 +32,14 @@ Feel free to browse my profile. If you have any questions or would like to sched
 <h2><img width="32" src="images/book.png"> What am I currently up to ? </h2>
 </div>
 
-:dart: I study QA automation in **[QA.GURU online school](https://qa.guru)** in order to implement the gained knowledge in my work. I use the following instruments :
+:dart: I study QA automation in **[QA.GURU online school](https://qa.guru)** in order to implement the gained knowledge in my work.
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-20793B?logo=java&style=flat">
   <img src="https://img.shields.io/badge/-Selenide-6A54DF?&style=flat">
   <img src="https://img.shields.io/badge/-Selenoid-20793B?&style=flat">
-  <img src="https://img.shields.io/badge/-Gradle-6A54DF?logo=gradle&style=flat">
   <img src="https://img.shields.io/badge/-Jenkins-20793B?logo=Jenkins&style=flatn&logoColor=white">
   <img src="https://img.shields.io/badge/-JUnit5-6A54DF?logo=junit5&style=flatn&logoColor=white">
   <img src="https://img.shields.io/badge/-Allure Report-20793B?&style=flat">
@@ -50,6 +51,7 @@ Feel free to browse my profile. If you have any questions or would like to sched
 <div align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
 <img src="https://img.shields.io/badge/Gradle-3D85C6?style=for-the-badge&logo=gradle&logoColor=white" alt="gradle" />
+<img src="https://img.shields.io/badge/Jenkins-f44336?style=for-the-badge&logo=Jenkins&logoColor=white" alt="jenkins" />
 <img src="https://img.shields.io/badge/SQL-407AFC?style=for-the-badge&logo=icloud&logoColor=white" alt="sql" />
 <img src="https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />

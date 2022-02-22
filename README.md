@@ -15,6 +15,8 @@ I am well versed with different software development methodologies, including ag
 
 Have acted as both Lead QA and Senior QA. Feel comfortable whether leading a team or acting as an individual contributor.
 
+Feel free to browse my profile. If you have any questions or would like to schedule an interview, contact me
+
 <div align="center">
 <a href="https://www.linkedin.com/in/abarashkov45/">
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />

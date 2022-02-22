@@ -77,3 +77,11 @@ Feel free to browse my profile. If you have any questions or would like to sched
     <img width="35%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lexamenrf44&layout=compact&theme=buefy&hide_border=true">
   </a>
 </p>
+
+---
+
+<div align='center'>
+
+![](https://komarev.com/ghpvc/?username=Lexamenrf44&label=Profile+Views)
+
+</div>

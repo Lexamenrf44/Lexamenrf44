@@ -61,9 +61,35 @@ Feel free to browse my profile. If you have any questions or would like to sched
 <img src="https://img.shields.io/badge/Allure Report-20793B?style=for-the-badge" alt="allurereport" />
 </div>
 
+
 <div align="left">
 <h2><img width="35" src="images/stats.webp">  My GitHub statistics </h2>
 </div>
+
+<div align="center">
+  <table width="100%">
+    <tbody>
+      <tr>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <a href="https://github.com/Lexamenrf44">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lexamenrf44&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Alexanders's Language Stats" vertical-align="middle"/>
+          </a>
+        </div>
+        </td>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <a href="https://github.com/Lexamenrf44">
+            <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/jeffreyc86?cardType=github&theme=github" alt="Jeffrey's GitHub Stats" /> -->
+            <img src="https://github-readme-stats.vercel.app/api?username=Lexamenrf44&show_icons=true&hide=stars&hide_border=true" alt="Alexander's GitHub Stats" vertical-align="middle"/>
+          </a>
+        </div>
+        </td>
+      </tr>
+    </tbody>
+  <table>
+<div>
+
 
 <p align="right">
 <a>

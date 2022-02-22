@@ -40,7 +40,6 @@ Feel free to browse my profile. If you have any questions or would like to sched
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Allure Report-20793B?&style=flat">
-  <img src="https://img.shields.io/badge/-Allure TestOps-6A54DF?&style=flat">
 </p>
 
 <div align="left">
@@ -64,3 +63,10 @@ Feel free to browse my profile. If you have any questions or would like to sched
 <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
 <img src="https://img.shields.io/badge/Allure TestOps-6A54DF?style=for-the-badge" alt="allure" />
 </div>
+
+<p align="right">
+<a>
+  <img width="50%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lexamenrf44&show_icons=true&theme=radical">
+  
+</a>
+</p>

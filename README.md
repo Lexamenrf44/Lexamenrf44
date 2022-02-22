@@ -70,3 +70,9 @@ Feel free to browse my profile. If you have any questions or would like to sched
   
 </a>
 </p>
+
+<p align="left">
+  <a>
+    <img width="35%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lexamenrf44&layout=compact&theme=buefy&hide_border=true">
+  </a>
+</p>

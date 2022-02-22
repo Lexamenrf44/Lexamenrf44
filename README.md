@@ -45,3 +45,14 @@ Feel free to browse my profile. If you have any questions or would like to sched
   <img src="https://img.shields.io/badge/-Allure TestOps-6A54DF?&style=flat">
   <img src="https://img.shields.io/badge/-Telegram%20(notifications)-20793B?logo=Telegram&style=flat">
 </p>
+
+### Languages, Tools, and Skills 🛠
+<div align="center">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
+<img src="https://img.shields.io/badge/SQL-407AFC?style=for-the-badge&logo=icloud&logoColor=white" alt="sql" />
+<img src="https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+<img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="terminal" />
+<img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
+</div>

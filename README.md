@@ -28,7 +28,7 @@ Feel free to browse my profile. If you have any questions or would like to sched
 
 ## What am I currently up to ?
 
-:dart: I study QA automation in **[QA.GURU online school](https://qa.guru)** in order to implement the gained knowledge in my work. We learn to user the following instruments :
+:dart: I study QA automation in **[QA.GURU online school](https://qa.guru)** in order to implement the gained knowledge in my work. I use the following instruments :
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-20793B?logo=java&style=flat">

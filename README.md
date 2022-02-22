@@ -34,6 +34,10 @@ Feel free to browse my profile. If you have any questions or would like to sched
 
 :dart: I study QA automation in **[QA.GURU online school](https://qa.guru)** in order to implement the gained knowledge in my work.
 
+:dart: I enrich knowledge database for selenide.
+
+:dart: I write my own code for the studying purposes in order to become a programmer the other day.
+
 <p align="center">
   <img src="https://img.shields.io/badge/-Allure Report-20793B?&style=flat">
   <img src="https://img.shields.io/badge/-Allure TestOps-6A54DF?&style=flat">

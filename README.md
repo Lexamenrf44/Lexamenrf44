@@ -78,8 +78,6 @@ Feel free to browse my profile. If you have any questions or would like to sched
   </a>
 </p>
 
----
-
 <div align='center'>
 
 ![](https://komarev.com/ghpvc/?username=Lexamenrf44&label=Profile+Views)

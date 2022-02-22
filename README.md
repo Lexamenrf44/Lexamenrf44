@@ -6,8 +6,6 @@
 <h2><img width="32" src="images/octocat.gif"> About me </h2>
 </div>
 
-## About Me
-
 My name is Alexander. I am certified Senior Quality Assurance Engineer with 5+ years of expertise, managing various projects in different IT-fields: 
 - Finance, 
 - Clearing houses, 

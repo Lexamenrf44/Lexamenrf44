@@ -37,11 +37,8 @@ Feel free to browse my profile. If you have any questions or would like to sched
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Java-20793B?logo=java&style=flat">
   <img src="https://img.shields.io/badge/-Selenide-6A54DF?&style=flat">
   <img src="https://img.shields.io/badge/-Selenoid-20793B?&style=flat">
-  <img src="https://img.shields.io/badge/-Jenkins-20793B?logo=Jenkins&style=flatn&logoColor=white">
-  <img src="https://img.shields.io/badge/-JUnit5-6A54DF?logo=junit5&style=flatn&logoColor=white">
   <img src="https://img.shields.io/badge/-Allure Report-20793B?&style=flat">
   <img src="https://img.shields.io/badge/-Allure TestOps-6A54DF?&style=flat">
   <img src="https://img.shields.io/badge/-Telegram%20(notifications)-20793B?logo=Telegram&style=flat">
@@ -53,6 +50,7 @@ Feel free to browse my profile. If you have any questions or would like to sched
 <img src="https://img.shields.io/badge/Gradle-3D85C6?style=for-the-badge&logo=gradle&logoColor=white" alt="gradle" />
 <img src="https://img.shields.io/badge/Jenkins-f44336?style=for-the-badge&logo=Jenkins&logoColor=white" alt="jenkins" />
 <img src="https://img.shields.io/badge/JUnit5-8fce00?style=for-the-badge&logo=JUnit5&logoColor=white" alt="junit5" />
+<img src="https://img.shields.io/badge/Java-cc0000?style=for-the-badge&logo=Java&logoColor=white" alt="java" /> 
 <img src="https://img.shields.io/badge/SQL-407AFC?style=for-the-badge&logo=icloud&logoColor=white" alt="sql" />
 <img src="https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />

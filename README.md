@@ -7,11 +7,10 @@
 </div>
 
 My name is Alexander. I am certified Senior Quality Assurance Engineer with 5+ years of expertise, managing various projects in different IT-fields: 
-- Finance, 
-- Clearing houses, 
-- Social networks, 
-- Customs
-- Business Banking 
+- Financial technology (FinTech), 
+- Artificial Inteligence, 
+- Internet of Things (IoT), 
+- Digital Customs
 
 I am well versed with different software development methodologies, including agile, devops, waterfall V-type and rapid. Focused on providing flawless product to benefit the end users by writing java test-scripts in Postman or Groovy test-scripts in SoapUI. Extensively experienced in the full life cycle of software desing, including code review, Oracle / PostgreSQL database surfing, business and functional requirement analysis. Detail-oriented in terms of user behavior patterns.
 

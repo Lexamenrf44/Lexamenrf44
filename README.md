@@ -6,17 +6,9 @@
 <h2><img width="32" src="images/octocat.gif"> About me </h2>
 </div>
 
-My name is Alexander. I am certified Senior Quality Assurance Engineer with 5+ years of expertise, managing various projects in different IT-fields: 
-- Financial technology (FinTech), 
-- Artificial Inteligence, 
-- Internet of Things (IoT), 
-- Digital Customs
+Senior quality assurance engineer with extensive experience in testing complex web and software applications from different domains, including fintech, logistics, AI, marketing and crm systems. Expertise in functional testing, integration testing, smoke testing, regression testing, exploratory testing, non-functional and automation testing. Ensures that products meet high-quality standards and are free of bugs. Competence in mentoring and onboarding to projects juniors and middle QAs. Having the capability to facilitate communication and processes in a team
 
-I am well versed with different software development methodologies, including agile, devops, waterfall V-type and rapid. Focused on providing flawless product to benefit the end users by writing java test-scripts in Postman or Groovy test-scripts in SoapUI. Extensively experienced in the full life cycle of software desing, including code review, Oracle / PostgreSQL database surfing, business and functional requirement analysis. Detail-oriented in terms of user behavior patterns.
-
-Have acted as both Lead QA and Senior QA. Feel comfortable whether leading a team or acting as an individual contributor.
-
-Feel free to browse my profile. If you have any questions or would like to schedule an interview, contact me
+I am seeking a remote or relocation-friendly position where I can continue to push boundaries and elevate my skills
 
 <div align="center">
 <a href="https://www.linkedin.com/in/abarashkov45/">

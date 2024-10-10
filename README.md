@@ -6,9 +6,7 @@
 <h2><img width="32" src="images/octocat.gif"> About me </h2>
 </div>
 
-Senior quality assurance engineer with extensive experience in testing complex web and software applications from different domains, including fintech, logistics, AI, marketing and crm systems. Expertise in functional testing, integration testing, smoke testing, regression testing, exploratory testing, non-functional and automation testing. Ensures that products meet high-quality standards and are free of bugs. Competence in mentoring and onboarding to projects juniors and middle QAs. Having the capability to facilitate communication and processes in a team
-
-I am seeking a remote or relocation-friendly position where I can continue to push boundaries and elevate my skills
+Senior Quality Assurance Engineer with  over 7+ years of extensive experience in testing complex web and software applications across various domains, including fintech, logistics, legal tech, SaaS and AI. Proficient in functional, integration, and automation testing, with a strong background in mentoring junior and middle QA team members. Seeking a remote or relocation-friendly QA Automation position to further develop my skills and contribute as a valuable asset
 
 <div align="center">
 <a href="https://www.linkedin.com/in/abarashkov45/">

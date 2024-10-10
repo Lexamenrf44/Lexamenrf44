@@ -18,7 +18,7 @@ Senior Quality Assurance Engineer with  over 7+ years of extensive experience in
 </div>
 
 <div align="left">
-<h2><img width="32" src="images/book.png"> What am I currently up to ? </h2>
+<h2><img width="32" src="images/guy-with-laptop-2.gif"> What am I currently up to ? </h2>
 </div>
 
 :dart: I study QA automation in **[QA.GURU online school](https://qa.guru)** in order to implement the gained knowledge in my work.

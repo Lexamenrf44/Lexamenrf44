@@ -39,6 +39,7 @@ Senior Quality Assurance Engineer with  over 7+ years of extensive experience in
 <img src="https://img.shields.io/badge/Java-cc0000?style=for-the-badge&logo=Java&logoColor=white" alt="java" /> 
 <img src="https://img.shields.io/badge/Selenide-6A54DF?style=for-the-badge" alt="selenide" />
 <img src="https://img.shields.io/badge/Selenoid-20793B?style=for-the-badge" alt="selenoid" />
+<img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=green" alt="python" />
 <img src="https://img.shields.io/badge/SQL-407AFC?style=for-the-badge&logo=icloud&logoColor=white" alt="sql" />
 <img src="https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />

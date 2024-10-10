@@ -3,14 +3,14 @@
 <img src="./banner_3.jpg" alt="name banner" />
 
 <div align="left">
-<h2><img width="32" src="images/octocat.gif"> About me </h2>
+<h2><img width="32" src="images/octocat.gif"> Summary </h2>
 </div>
 
 Senior Quality Assurance Engineer with  over 7+ years of extensive experience in testing complex web and software applications across various domains, including fintech, logistics, legal tech, SaaS and AI. Proficient in functional, integration, and automation testing, with a strong background in mentoring junior and middle QA team members. Seeking a remote or relocation-friendly QA Automation position to further develop my skills and contribute as a valuable asset
 
 <div align="center">
 <a href="https://www.linkedin.com/in/abarashkov45/">
-<img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+<img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="mailto:abarashkov45@gmail.com">
 <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
@@ -28,10 +28,15 @@ Senior Quality Assurance Engineer with  over 7+ years of extensive experience in
 :dart: I write my own code for the studying purposes in order to become a programmer the other day.
 
 <div align="left">
-<h2>🛠 Languages, Tools, Skills and Expertises </h2>
+<h2> Tools </h2>
+  
 </div>
 
-<div align="center">
+<div align="left">
+<h2> Hard Skills </h2>
+</div>
+
+<div align="left">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
 <img src="https://img.shields.io/badge/Gradle-3D85C6?style=for-the-badge&logo=gradle&logoColor=white" alt="gradle" />
 <img src="https://img.shields.io/badge/Jenkins-f44336?style=for-the-badge&logo=Jenkins&logoColor=white" alt="jenkins" />
@@ -53,7 +58,7 @@ Senior Quality Assurance Engineer with  over 7+ years of extensive experience in
 
 
 <div align="left">
-<h2><img width="35" src="images/stats.webp">  My GitHub statistics </h2>
+<h2><img width="35" src="images/stats.webp">  Statistics </h2>
 </div>
 
 <div align="center">

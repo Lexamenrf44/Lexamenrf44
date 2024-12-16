@@ -18,7 +18,7 @@ ISTQB certified with 8 years of experience in web and software applications test
 </div>
 
 <div align="left">
-<h2><img width="32" src="images/guy-with-laptop-2.gif"> Summary </h2>
+<h2><img width="32" src="images/guy-with-laptop-2.gif"> Tech Skills </h2>
 </div>
 
 <div align="left">

@@ -18,14 +18,8 @@ ISTQB certified with 8 years of experience in web and software applications test
 </div>
 
 <div align="left">
-<h2><img width="32" src="images/guy-with-laptop-2.gif"> What am I currently up to ? </h2>
+<h2><img width="32" src="images/guy-with-laptop-2.gif"> Summary </h2>
 </div>
-
-:dart: I study QA automation in **[QA.GURU online school](https://qa.guru)** in order to implement the gained knowledge in my work.
-
-:dart: I enrich knowledge database for selenide.
-
-:dart: I write my own code for the studying purposes in order to become a programmer the other day.
 
 <div align="left">
 <h2> Tools </h2>

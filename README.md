@@ -6,7 +6,7 @@
 <h2><img width="32" src="images/octocat.gif"> Summary </h2>
 </div>
 
-Senior Quality Assurance Engineer with  over 7+ years of extensive experience in testing complex web and software applications across various domains, including fintech, logistics, legal tech, SaaS and AI. Proficient in functional, integration, and automation testing, with a strong background in mentoring junior and middle QA team members. Seeking a remote or relocation-friendly QA Automation position to further develop my skills and contribute as a valuable asset
+ISTQB certified with 8 years of experience in web and software applications testing for fintech, logistics, legal tech, SaaS and AI projects. Specialise in UI / API test automation from scratch, AI, manual back-end and front-end testing of microservice based systems. Onboarded junior and middle QAs.
 
 <div align="center">
 <a href="https://www.linkedin.com/in/abarashkov45/">
